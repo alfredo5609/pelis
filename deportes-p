@@ -5,7 +5,7 @@ http://168.228.194.33:48001/play/a031/index.m3u8
 http://168.228.194.33:48001/play /a0b2/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2 HD
 http://168.228.194.33:48001/play/a09t/index.m3u8
-#EXTINF:-1 , no seeeeeeeee
+#EXTINF:-1 , nosecanal
 http://168.228.194.33:48001/play/a0b4/index.m3u8
 #EXTINF:-1 group-title="Deportes", ESPN 4 HD
 http://168.228.194.33:48001/play/a09m/index.m3u8
